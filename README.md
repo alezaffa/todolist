@@ -13,6 +13,7 @@ cd todolist/todolist_frontend
 Install backend:
 - pip install django-cors-headers
 - pip install djangorestframework
+- pip manage.py runserver
 
 Install frontend:
 - npm install
